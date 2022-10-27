@@ -1,1 +1,1 @@
-# Frist-HTML-website-challenge-dio.me
+# First-HTML-website-challenge-dio.me
